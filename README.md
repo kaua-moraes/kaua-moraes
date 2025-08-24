@@ -15,8 +15,8 @@
 ---
 
 ## 📌 Projetos em destaque
-- [Sistema Bancário em Python]() → Depósito, saque e extrato  
-- [Quiz de Programação]() → Quiz interativo com HTML e CSS  
+- [Sistema Bancário em Python](https://github.com/kaua-moraes/sistema_bancario.py) → Depósito, saque e extrato  
+- [Quiz de Programação](https://github.com/kaua-moraes/Meu-site) → Quiz interativo com HTML e CSS  
 
 ---
 
@@ -27,5 +27,5 @@
 
 ---
 
-🚀 Sempre aprendendo, codando e buscando evoluir!<!--
+## 🚀 Sempre aprendendo, codando e buscando evoluir!<!--
 
