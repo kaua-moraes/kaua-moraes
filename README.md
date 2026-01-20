@@ -2,14 +2,14 @@
 ## eu sou o Kauã Vinicius  
 
 🎓 Graduando em **Análise e Desenvolvimento de Sistemas**  
-💻 Focado em **Desenvolvimento Back-End**  
+💻 Focado em **Análise de Dados**  
 🚀 Buscando oportunidades para evoluir e aplicar meus conhecimentos em projetos reais  
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 - **Linguagens:** Python, Java, JavaScript  
-- **Banco de Dados:** MySQL, PostgreSQL  
+- **Banco de Dados:** MySQL, PostgreSQL, SQL, Power BI, Machine Learning, Automação  
 - **Ferramentas:** Git, GitHub, VS Code  
 
 ---
