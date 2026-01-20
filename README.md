@@ -17,7 +17,7 @@
 ## 📌 Projetos em destaque
 - [Sistema Bancário em Python](https://github.com/kaua-moraes/sistema_bancario.py) → Depósito, saque e extrato  
 - [Quiz de Programação](https://github.com/kaua-moraes/Meu-site) → Quiz interativo com HTML e CSS
-- [machine Leraning Não supervisionado, K-Means clustering](https://github.com/kaua-moraes/clustering-clientes-kmeans) 
+- [machine Leraning Não supervisionado, K-Means clustering](https://github.com/kaua-moraes/clustering-clientes-kmeans) → K-Means, machine learning com clustering
 
 ---
 
